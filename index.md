@@ -5,7 +5,7 @@ My name is Chenghao Xue and I am a student at [Cal State Fullerton](https://full
 
 ## Github Profile
 
-My Github page is https://github.com/itachigoal
+My Github page is [https://github.com/itachigoal](https://github.com/itachigoal)
 
 ### Favorite CPSC 120L Labs
 
