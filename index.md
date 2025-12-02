@@ -1,7 +1,7 @@
 
 # Chenghao Xue's Portfolio
 
-My name is Chenghao Xue and I am a student at [Cal State Fullerton](https://fullerton.edu/) and my major is computer science. I plan to graduating in 2029.
+My name is Chenghao Xue and I am a student at [Cal State Fullerton](https://fullerton.edu/) and my major is computer science. I plan to graduate in 2029.
 
 ## Github Profile
 
